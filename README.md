@@ -54,3 +54,14 @@ You can also use Parrot in your CI/CD pipelines to add security tests to your re
 We are developers too, and we love to have advanced, comfortable and easy to use environment too. This is why Parrot ships with Codium pre-installed. It is an advanced and extensible editor with IDE capabilities built upon VSCode. Other IDEs and editors are ready to install from our official software repository.
 
 Boot the system, start the editor, run the code. It can't get easier than that.
+
+<hr>
+
+### +35 millions downloads in the last five years
+Every day more and more new people download and update the system. This OS is made to respect your freedom, and it always will be. share with anyone, read the source code change it as you want!
+
+### +200k unique users
+A vast community, spread all over the world, used by experts but also by beginners.
+
+### +60 worldwide mirrors
+ParrotOS continues to grow thanks also to its collaborations, with various universities, organizations, companies and more.
