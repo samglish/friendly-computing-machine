@@ -1,9 +1,9 @@
 # friendly-computing-machine
 The operating :
-                -> system for Developers     |
-                -> system for Hackers        |
-                -> system for Sysadmins      |
-                -> system for Network enginee|
+               <p> -> system for Developers     | </p>
+               <p> -> system for Hackers        | </p>
+               <p> -> system for Sysadmins      | </p>
+               <p> -> system for Network enginee| </p>
 
 The ultimate framework for your Cyber Security operations
 
