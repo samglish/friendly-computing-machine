@@ -1,8 +1,5 @@
 # Parrot Security
-<p> -> system for Developers     | </p>
-<p> -> system for Hackers        | </p>
-<p> -> system for Sysadmins      | </p>
-<p> -> system for Network enginee| </p>
+system for Developers | system for Hackers | system for Sysadmins | system for Network enginee
 
 The ultimate framework for your Cyber Security operations
 
