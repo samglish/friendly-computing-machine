@@ -46,13 +46,11 @@ The system is Free and Open Source, and all the code that powers the system is m
 
 <hr>
 
-## Programming languages & Frameworks
-
+## `Programming languages & Frameworks`
 Parrot integrates popular programming languages, compilers, interpreters, libraries and development frameworks either pre-installed or one command away through our software repository, for faster and easier software development.
 You can also use Parrot in your CI/CD pipelines to add security tests to your release workflow.
 
-## Development tools
-
+## `Development tools`
 We are developers too, and we love to have advanced, comfortable and easy to use environment too. This is why Parrot ships with Codium pre-installed. It is an advanced and extensible editor with IDE capabilities built upon VSCode. Other IDEs and editors are ready to install from our official software repository.
 
 Boot the system, start the editor, run the code. It can't get easier than that.
